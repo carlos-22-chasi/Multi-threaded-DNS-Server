@@ -1,0 +1,6 @@
+www.google.com,142.250.191.100
+www.nothere.com,199.188.206.3
+www.youtube.com,142.250.190.142
+www.instagram.com,57.144.104.34
+www.hello.com,216.239.34.21
+www.sup.com,81.19.70.4
